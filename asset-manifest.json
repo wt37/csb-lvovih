@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-lvovih/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://.github.io/csb-lvovih/static/js/main.2799d79a.chunk.js",
+    "main.js.map": "https://.github.io/csb-lvovih/static/js/main.2799d79a.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-lvovih/static/js/runtime-main.ef731c43.js",
+    "runtime-main.js.map": "https://.github.io/csb-lvovih/static/js/runtime-main.ef731c43.js.map",
+    "static/js/2.44de573e.chunk.js": "https://.github.io/csb-lvovih/static/js/2.44de573e.chunk.js",
+    "static/js/2.44de573e.chunk.js.map": "https://.github.io/csb-lvovih/static/js/2.44de573e.chunk.js.map",
+    "index.html": "https://.github.io/csb-lvovih/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-lvovih/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.44de573e.chunk.js.LICENSE.txt": "https://.github.io/csb-lvovih/static/js/2.44de573e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef731c43.js",
+    "static/js/2.44de573e.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2799d79a.chunk.js"
+  ]
+}
